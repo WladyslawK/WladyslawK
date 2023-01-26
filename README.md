@@ -1,5 +1,5 @@
 # Hello there! 👋 I'm Wlad 
-### I am a front-end developer, I am curios about web dev trends
+### I am a front-end developer and I am curios about web dev trends
 ![](https://raw.githubusercontent.com/meskal1/codewars/main/dino.gif)
 ## Tools, languages, and other things that I like to work with :star_struck:
 <table width="520px">
