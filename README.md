@@ -94,7 +94,7 @@
             <span>Axios</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="icons/ltoolkit.png" alt="Lottie">
+            <img height="48" width="48" style="max-width: 100%;" src="icons/toolkit.png" alt="Lottie">
             <span>Redux Toolkit</span>
             </td>
             <td width="96" align="center">
