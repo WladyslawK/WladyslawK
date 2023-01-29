@@ -1,4 +1,4 @@
-<!--# Hello there! 👋 I'm Wlad 
+# Hello there! 👋 I'm Wlad 
 ### I am a front-end developer and I am curios about web dev trends
 ![](https://raw.githubusercontent.com/meskal1/codewars/main/dino.gif)
 ## Tools, languages, and other things that I like to work with :star_struck:
@@ -110,4 +110,3 @@
 </table>
 
 ## Contacts: <a href='mailto:vladkurr7890@gmail.com'><img height="20" width="20" style="max-width: 100%;" src="icons/email.svg" alt="Email"></a> <a href='https://www.linkedin.com/in/w%C5%82adys%C5%82aw-kurczenko-b53456223/'><img height="20" width="20" style="max-width: 100%;" src="icons/linkedin.svg" alt="Linkedin"></a> <a href='https://t.me/wladKu'><img height="20" width="20" style="max-width: 100%;" src="icons/telegram.svg" alt="Telegram"></a>
---!>
