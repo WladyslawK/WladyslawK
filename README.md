@@ -56,7 +56,7 @@
             <span>Prettier</span>
             </td>
             <td width="96" align="center">
-            <img height="48" width="48" style="max-width: 100%;" src="icons/eslint.svg" alt="Eslint">
+            <img height="48" width="48" style="max-width: 100%;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Flauragift21%2Fquick-guide-to-linting-javascript-codebase-with-eslint-dcf&psig=AOvVaw1x42SyRvodVceYGE-j7D8a&ust=1683143750879000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOCpxqC11_4CFQAAAAAdAAAAABAD" alt="Eslint">
             <span>Eslint</span>
             </td>
             <td width="96" align="center">
